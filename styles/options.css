@@ -1,0 +1,28 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  padding: 2em;
+}
+
+img {
+  width: 20em;
+  height: auto;
+  margin: 0 0 1.5em;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: lighter;
+}
+
+p, a {
+  font-size: 1.1rem;
+}
+
+hr {
+  margin: 1.5em 0;
+}
+
+.card {
+  margin: 0 0 2em;
+  background-color: rgb(247, 247, 247);
+}
