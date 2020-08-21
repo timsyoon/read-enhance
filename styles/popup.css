@@ -1,20 +1,18 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  width: 25em;
+  width: 24em;
 }
 
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 1em;
-  margin: 1em 0 0;
+  padding: 0.8em 1em;
 }
 
 img {
-  width: 15em;
+  width: 12em;
   height: auto;
-  padding: 0 0 0.6em;
 }
 
 a {
@@ -24,18 +22,24 @@ a {
 h1 {
   font-size: 1.4em;
   font-weight: normal;
-  margin: 0 0 0.6em;
 }
 
-.settings-container {
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0.8em;
+}
+
+.card {
+  display: inline-block;
   background-color: rgb(247, 247, 247);
-  margin: 0.5em;
+  height: 13.5em;
 }
 
 #options-icon {
   color: rgb(189, 189, 189);
-  font-size: 1.4em;
-  padding: 0.15em 0 0;
+  font-size: 1.2em;
+  padding: 0.4em 0 0;
 }
 
 #options-icon:hover {
