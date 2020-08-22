@@ -1,7 +1,7 @@
 {
   "name": "ReadEnhance",
   "version": "0.1.0",
-  "description": "ReadEnhance allows you to customize background and text colors on a web page.",
+  "description": "ReadEnhance lets you customize colors of the background and text on a web page.",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "background": {
     "scripts": ["background.js"],
