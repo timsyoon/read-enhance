@@ -2,7 +2,7 @@
 
 ReadEnhance is a Google Chrome extension that lets users customize background and text colors on a web page.
 
-(screenshot of using extension)
+![Image of extension in use](images/sample-screenshot.png)
 
 ## Installation
 
@@ -12,7 +12,7 @@ To install the extension, visit the Chrome Web Store and search for "ReadEnhance
 
 To use the extension, first select it from the extension toolbar. The main window should now appear:
 
-(image of main extension window)
+![Image of main extension window](images/main-window.png)
 
 You can try out the pre-set color themes (warm, cool, dark, light) in the "Themes" section. To adjust the colors manually, click on the color wells in the "Custom Settings" section and drag the circle to your desired color. The corresponding portion of the page will change color as you move the circle around.
 
